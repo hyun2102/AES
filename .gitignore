@@ -32,9 +32,9 @@
 *.app
 
 # Custum
-test/test.sln
-test/Debug/
-test/test/Debug/
-test/.vs/
+AES/AES.sln
+AES/Debug/
+AES/AES/Debug/
+AES/.vs/
 
 *.vcxproj*
